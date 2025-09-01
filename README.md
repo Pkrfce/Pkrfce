@@ -71,5 +71,5 @@
 ---
 
 <p align="center">
-  <i>✨ "Keep learning, keep creating, and keep inspiring." ✨</i>
+  <i>✨ "Gatau bingung pengen beli bumi." ✨</i>
 </p>
