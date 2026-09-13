@@ -35,7 +35,3 @@ I’m an Informatics Engineering student interested in software development and 
 </p>
 
 ---
-
-<p align="center">
-  <i>✨ "Gatau bingung pengen beli bumi." ✨</i>
-</p>
