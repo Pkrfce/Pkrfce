@@ -29,7 +29,7 @@ I’m an Informatics Engineering student interested in software development and 
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
   </a>
   &nbsp;&nbsp;
-  <a href="" target="_blank">
+  <a href="https://www.instagram.com/gemvzy_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>  
 </p>
